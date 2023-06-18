@@ -5,7 +5,7 @@ The Review Component is a React component that displays reviews from different p
 
 Here is live link : [Review Component](https://review-app-conditionalrendering.netlify.app)
 
-Here is the link of the project:[Review Component](https://github.com/Ashique01/reviews-using-conditionalRendering)
+Here is the link of the project: [Review Component](https://github.com/Ashique01/reviews-using-conditionalRendering)
 
 ## Features
 - Display reviews with images, names, job titles, and review texts

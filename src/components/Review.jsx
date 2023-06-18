@@ -32,8 +32,12 @@ function Review() {
   };
 
   const randomReview = () => {
-    let index = Math.floor(Math.random() * people.length);
-    setIndex(index);
+    let RandomNumber = Math.floor(Math.random() * people.length);
+    // for avoiding repeating
+    if (RandomNumber === index) {
+      RandomNumber = index + 1;
+    }
+    setIndex(checkNumber(RandomNumber));
   };
 
   return (

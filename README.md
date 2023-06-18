@@ -1,7 +1,7 @@
 # Review Component
 The Review Component is a React component that displays reviews from different people. It is designed to provide a user-friendly interface for showcasing reviews with accompanying images, names, job titles, and review texts. The component includes navigation buttons for easy browsing and a "Surprise Me" button to display a random review.
 
-# #Features
+## Features
 - Display reviews with images, names, job titles, and review texts
 - Navigate through reviews using the previous and next buttons
 - Click the "Surprise Me" button to display a random review
